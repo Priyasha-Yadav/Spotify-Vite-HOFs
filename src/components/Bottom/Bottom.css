@@ -1,0 +1,44 @@
+
+#heart{
+    height: 3vh;
+}
+.dreaming{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width:17%;
+}
+
+.bottom{
+  padding-top: 1%;
+    background-color: #181818;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100vw;
+    position: relative;
+    bottom: 120px;
+}
+.bottom img{
+    height:10vh;
+}
+.control img{
+height: 4vh;
+}
+.dreaming{
+    display: flex;
+}
+
+.below{
+    width: 88%;
+    height: 3vh;
+    background-color: #32D760;
+    color: black;
+    display: flex;
+    font-size: small;
+    font-weight: 500;
+    flex-direction: row-reverse;
+    padding: 0 10% 0 2%;
+    position: relative;
+    bottom: 120px;
+}

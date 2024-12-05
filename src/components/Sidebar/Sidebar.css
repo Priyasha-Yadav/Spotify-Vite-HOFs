@@ -1,0 +1,47 @@
+
+.menu {
+    margin: 10% 0 15% 2%;
+
+    line-height: 17px;
+
+}
+
+.install {
+    margin-top: 55px;
+}
+
+.install a {
+    display: flex;
+
+}
+
+
+.arrows img {
+    height: 5vh;
+}
+
+.menu a {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    background-image: url(https://github.com/PatelNeelMahesh/frontend_tasks/blob/main/10.spotify-clone/assets/Spotify%20logo.png?raw=true);
+    height: 6.5vh;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+.sidebar {
+    background-color: black;
+    padding: 1% 0 0 2%;
+    width: 18vw;
+    height: 95vh;
+    font-size: 1.1rem;
+}
+
+.menu img {
+    height: 3vh;
+    margin-right: 7%;
+}
